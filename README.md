@@ -1,5 +1,8 @@
-### Hi there 👋
-🌱 I’m currently learning ###ReactJS
+<p align="center">### Hi 👋 I'm Nihkil</p>
+<h3 align="center">A passionate frontend developer from India</h3>
+🌱 I’m currently learning **ReactJS**
+
+Connect with me:
 <!--
 **NikhilBhagoria/NikhilBhagoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+    
+
+
+<p align="center">Developed with ❤️ in India 🇮🇳</p>
