@@ -1,6 +1,6 @@
-<p align="center">### Hi 👋 I'm Nihkil</p>
+<p align="center">Hi 👋 I'm Nihkil</p>
 <h3 align="center">A passionate frontend developer from India</h3>
-🌱 I’m currently learning **ReactJS**
+🌱 I’m currently learning ReactJS
 
 Connect with me:
 <!--
