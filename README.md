@@ -1,5 +1,5 @@
-<p align="center">Hi 👋 I'm Nihkil</p>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">Hi 👋 I'm Nikhil</p>
+<h3 align="center">A passionate ReactJS Developer from India</h3>
 🌱 I’m currently learning ReactJS
 
 Connect with me:
