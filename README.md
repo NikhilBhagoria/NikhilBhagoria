@@ -51,11 +51,12 @@ Here are some ideas to get you started:
 <!-- ------------------------------------------------------------------------------------------------------------------------ -->
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikhil
 ==============================================================================================================================
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NikhilBhagoria&label=Profile%20views&color=0e75b6&style=flat" alt="NikhilBhagoria" /> </p>
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [Portfolio](http://nikhilbhagoria.netlify.app/)
 *   ✉️  You can contact me at [nikhilkumar2450@gmail.com](mailto:nikhilkumar2450@gmail.com)
-*   🧠  I'm learning Next.js
+<!-- *   🧠  I'm learning Next.js -->
   
   ### Skills 
 <p align="left">
